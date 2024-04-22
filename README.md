@@ -3,6 +3,8 @@ This analysis aims to provide insights into the project completion, satisfaction
 
 ## Data Filtering Process
 The analysis was conducted using the following steps to filter and process the data:
+I created a pivot chart to show only the departments, positions, completed projects, productivity and satisfaction rate. 
+I also created a a stacked line chart to have a more visual of the department metrics.
 
 # Data Compilation:
 The raw data provided information on the number of projects completed, average satisfaction rate, and average productivity for various departments and roles.
